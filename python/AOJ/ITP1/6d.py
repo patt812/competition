@@ -11,3 +11,4 @@ for i in range(len(a)):
     for j in range(len(b)):
         sum += (a[i][j] * b[j])
     print(sum)
+
