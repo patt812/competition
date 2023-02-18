@@ -1,0 +1,1 @@
+print(700 + (100 * len(input().replace("x", ""))))
