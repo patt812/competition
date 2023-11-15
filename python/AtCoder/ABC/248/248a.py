@@ -1,0 +1,1 @@
+print((set(x for x in range(0,10)) ^ set(map(int, input()))).pop())
